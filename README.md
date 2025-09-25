@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Samuel Ribas!
 
-<!--
-**SRibasDev/SRibasDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor focado  **Java (backend)**, sempre buscando evoluir e transformar ideias em código.  
+🚀 Apaixonado por tecnologia, automação e resolver problemas de forma criativa.  
+📚 Atualmente aprofundando meus estudos em desenvolvimento de software e boas práticas de programação.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Stacks
+<div align="left">
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+</div>
+
+---
+
+## 📊 Estatísticas no GitHub
+<div align="left">
+
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SRibasDev&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SRibasDev&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 🌍 Onde me encontrar
+<div align="left">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SamuelRibasDev)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelribas.ads@gmail.com)  
+
+</div>
+
+---
+
+✨ “Programar é transformar lógica em solução.”
