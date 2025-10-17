@@ -39,5 +39,3 @@
 </div>
 
 ---
-
-✨ “Programar é transformar lógica em solução.”
