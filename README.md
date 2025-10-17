@@ -1,10 +1,11 @@
-# 👋 Olá, eu sou o Samuel Ribas!
+# 👋 Olá, eu sou o Samuel!
 
-💻 Desenvolvedor focado  **Java (backend)**, sempre buscando evoluir e transformar ideias em código. Atualmente estou no segundo semestre de Análise e Desenvolvimento de Sistemas pela Fatec São Paulo.
+💻 Desenvolvedor Back-End Java, sempre buscando evoluir e transformar ideias em código. Atualmente estou no segundo semestre de Análise e Desenvolvimento de Sistemas pela Fatec São Paulo.
 
 🚀 Apaixonado por tecnologia, automação e resolver problemas de forma criativa.  
 
-📚 Atualmente aprofundando meus estudos em desenvolvimento de software e boas práticas de programação.  
+📚 Atualmente aprofundando meus estudos em desenvolvimento de software e boas práticas de programação com projetos pessoais
+
 
 ---
 
