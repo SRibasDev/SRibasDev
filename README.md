@@ -1,55 +1,95 @@
 <div align="center">
-👋 Olá, eu sou o Samuel Ribas!
-💻 Desenvolvedor Back-End Java | Estudante de ADS na Fatec-SP
-Transformando ideias em código, uma linha por vez.
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00599C&height=200&section=header&text=Olá,%20eu%20sou%20o%20Samuel%20Ribas!&fontSize=50&fontAlignY=38&desc=Desenvolvedor%20Back-End%20Java%20|%20Estudante%20de%20ADS%20na%20Fatec-SP&descAlignY=58&descSize=20" alt="Header" />
+  
+  <p align="center">
+    <strong>Transformando ideias em código, desenvolvendo soluções e garantindo qualidade em cada linha.</strong>
+  </p>
+
+  <p align="center">
+    <a href="https://linkedin.com/in/samuelribasdev" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+    </a>
+    <a href="mailto:samuelribas.ads@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+    </a>
+    <a href="https://github.com/SRibasDev" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+    </a>
+  </p>
 </div>
+
+<br>
+
+## 🚀 Sobre mim
+
+Sou estudante do 3º semestre de **Análise e Desenvolvimento de Sistemas (ADS)** na Fatec São Paulo, com foco principal no desenvolvimento Back-End utilizando **Java e Spring Boot**. Não gosto de ficar apenas na teoria acadêmica: sou focado em construir aplicações reais, testar integrações exaustivamente e realizar deploys.
+
+* 🎓 **Formação:** ADS na Fatec-SP (Previsão: 2028) | Técnico em Edificações (ETEC).
+* 🌱 **Foco de Estudos:** Arquitetura em Camadas, criação e teste de APIs RESTful, troubleshooting de deploys e qualidade de software.
+* 💼 **Objetivo:** Busco minha primeira oportunidade (Estágio/Júnior) para mergulhar nas rotinas de um time técnico e colaborar com inovação e resolução de problemas.
+
 ---
-🚀 Sobre mim
-🎓 Cursando o 3º semestre de Análise e Desenvolvimento de Sistemas na Fatec São Paulo
-🔭 Atualmente desenvolvendo um sistema completo para uma creche de cães (Java + Spring Boot + React)
-🌱 Aprofundando estudos em arquitetura de software, APIs REST e boas práticas de programação
-💡 Apaixonado por resolver problemas reais com tecnologia
-📫 Como me contatar: samuelribas.ads@gmail.com
+
+## 🛠️ Tecnologias & Ferramentas
+
+### 💻 Back-End & Linguagens
+<p>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+</p>
+
+### 🎨 Front-End
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
+</p>
+
+### 🗄️ Bancos de Dados
+<p>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
+</p>
+
+### ⚙️ DevOps, Testes & Outros
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA">
+</p>
+
 ---
-🛠️ Tecnologias & Ferramentas
-Linguagens
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-Frameworks & Bibliotecas
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-Banco de Dados
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## 🎯 Projetos em Destaque
+
+### 🐶 Mundo PartiCãoLar (Sistema Full-Stack)
+Desenvolvimento completo de um sistema para gestão de uma creche e hotel para cães.
+* **Front-End:** Aplicação responsiva construída em React + Vite, com deploy ativo na Vercel (garantindo estabilidade e integrações visuais modernas).
+* **Back-End (API PetCare):** API REST robusta construída em **Java com Spring Boot**, implementando padrão MVC, persistência de dados e testes rigorosos de rotas utilizando o Postman.  
+
+> *Fique à vontade para explorar os repositórios fixados abaixo para ver a qualidade e documentação do meu código! 👇*
+
 ---
-📊 Estatísticas do GitHub
+
+## 📊 Estatísticas do GitHub
+
 <div align="center">
-![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=SRibasDev&show_icons=true&theme=radical&hide_border=true&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SRibasDev&layout=compact&theme=radical&hide_border=true&langs_count=8)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SRibasDev&theme=radical&hide_border=true)
+  <a href="https://github.com/SRibasDev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SRibasDev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="Estatísticas do Samuel" />
+  </a>
+  <a href="https://github.com/SRibasDev">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SRibasDev&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
+  </a>
 </div>
----
-🎯 Projetos em destaque
-🐶 PetCare System — API REST em Spring Boot para gestão completa de uma creche de pets (clientes, pets, funcionários, serviços e agendamentos), com front-end em React.
-> Veja meus repositórios fixados abaixo 👇
----
-🌍 Onde me encontrar
+
+<br>
+
 <div align="center">
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)
----
-⭐ "O código é a arte de transformar lógica em solução."
-![Profile views](https://komarev.com/ghpvc/?username=SRibasDev&color=ff69b4&style=for-the-badge)
+  <i>"O código é a arte de transformar lógica em solução e desafios em inovação."</i>
+  <br><br>
+  <img src="https://komarev.com/ghpvc/?username=SRibasDev&color=blue&style=for-the-badge&label=VISITAS+AO+PERFIL" alt="Profile views" />
 </div>
