@@ -40,17 +40,9 @@ Sou estudante do 3º semestre de **Análise e Desenvolvimento de Sistemas (ADS)*
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
 </p>
 
-### 🎨 Front-End
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-</p>
-
 ### 🗄️ Bancos de Dados
 <p>
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
 </p>
 
@@ -66,11 +58,9 @@ Sou estudante do 3º semestre de **Análise e Desenvolvimento de Sistemas (ADS)*
 
 ## 🎯 Projetos em Destaque
 
-### 🐶 Mundo PartiCãoLar (Sistema Full-Stack)
+### 🐶 Mundo PartiCãoLar (Site)
 Desenvolvimento completo de um sistema para gestão de uma creche e hotel para cães.
 * **Front-End:** Aplicação responsiva construída em React + Vite, com deploy ativo na Vercel (garantindo estabilidade e integrações visuais modernas).
-* **Back-End (API PetCare):** API REST robusta construída em **Java com Spring Boot**, implementando padrão MVC, persistência de dados e testes rigorosos de rotas utilizando o Postman.  
-
 > *Fique à vontade para explorar os repositórios fixados abaixo para ver a qualidade e documentação do meu código! 👇*
 
 ---
