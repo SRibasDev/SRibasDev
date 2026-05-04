@@ -17,9 +17,9 @@
 
 <br>
 
-## 🚀 Sobre mim
+<h1 align="center">🚀 Sobre mim</h1>
 
-Sou estudante do 3º semestre de **Análise e Desenvolvimento de Sistemas (ADS)** na Fatec São Paulo, com foco principal no desenvolvimento Back-End utilizando **Java e Spring Boot**. Não gosto de ficar apenas na teoria acadêmica: sou focado em construir aplicações reais, testar integrações exaustivamente e realizar deploys.
+Sou estudante do 3º semestre de **Análise e Desenvolvimento de Sistemas** na Fatec São Paulo, com foco principal no desenvolvimento Back-End utilizando **Java | Spring Boot | MySQL**. Não gosto de ficar apenas na teoria acadêmica: sou focado em construir aplicações reais, testar integrações exaustivamente e realizar deploys.
 
 * 🎓 **Formação:** ADS na Fatec-SP (Previsão: 2028) | Técnico em Edificações (ETEC).
 * 🌱 **Foco de Estudos:** Arquitetura em Camadas, criação e teste de APIs RESTful, troubleshooting de deploys e qualidade de software.
@@ -27,42 +27,20 @@ Sou estudante do 3º semestre de **Análise e Desenvolvimento de Sistemas (ADS)*
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
 
-### 💻 Back-End & Linguagens
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-</p>
-
-### 🗄️ Bancos de Dados
-<p>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white" alt="Hibernate">
-</p>
-
-### ⚙️ DevOps, Testes & Outros
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-  <img src="https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="VBA">
+<h2 align="center">💻 Stacks</h2>
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="70"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="70"/>
 </p>
 
 ---
 
-## 🎯 Projetos em Destaque
-
-### 🐶 Mundo PartiCãoLar (Site)
-Desenvolvimento completo de um sistema para gestão de uma creche e hotel para cães.
-* **Front-End:** Aplicação responsiva construída em React + Vite, com deploy ativo na Vercel (garantindo estabilidade e integrações visuais modernas).
-> *Fique à vontade para explorar os repositórios fixados abaixo para ver a qualidade e documentação do meu código! 👇*
-
----
-
-## 📊 Estatísticas do GitHub
+<h1 align="center"> 📊 Estatísticas do GitHub<h1/>
 
 <div align="center">
   <a href="https://github.com/SRibasDev">
