@@ -15,13 +15,13 @@
 
 <br>
 
-<h1 align="center">🚀 Sobre mim</h1>
+<h1 align="center">Sobre mim</h1>
 
 Atualmente no 3º semestre de **Análise e Desenvolvimento de Sistemas** na Fatec São Paulo, com foco principal no desenvolvimento Back-End utilizando **Java | Spring Boot | MySQL**. Não gosto de ficar apenas na teoria acadêmica: sou focado em construir aplicações reais, testar integrações exaustivamente e realizar deploys.
 
-* 🎓 **Formação:** ADS na Fatec-SP (Previsão: 2028) | Técnico em Edificações (ETEC).
-* 🌱 **Foco de Estudos:** Java, SpringBoot, MySQL, Clean Code, criação e teste de APIs REST, deploys, segurança e qualidade de software.
-* 💼 **Objetivo:** Busco minha primeira oportunidade (Estágio/Júnior) para mergulhar nas rotinas de um time técnico e colaborar com inovação e resolução de problemas.
+*  **Formação:** ADS na Fatec-SP (Previsão: 2028) | Técnico em Edificações (ETEC).
+*  **Foco de Estudos:** Java, SpringBoot, MySQL, Clean Code, criação e teste de APIs REST, deploys, segurança e qualidade de software.
+*  **Objetivo:** Busco minha primeira oportunidade (Estágio/Júnior) para mergulhar nas rotinas de um time técnico e colaborar com inovação e resolução de problemas.
 ---
  
 
